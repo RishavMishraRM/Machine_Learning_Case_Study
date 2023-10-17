@@ -19,7 +19,7 @@ This case study is about Student Performance Predictor
 
 
 ## Data
-The dataset is collected from the following link: <a href="https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datasetId=74977">Kaggle Link</a>
+The dataset is collected from the following link: <a href="https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datasetId=74977">Kaggle Link</a> or direct link
 (https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datasetId=74977)
 
 * This project understands how the student's performance (test scores) is affected by other variables such as Gender, Ethnicity, Parental level of education, Lunch and Test preparation course.
