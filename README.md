@@ -1,5 +1,6 @@
 # Machine_Learning_Case_Study
 
+This case study is about Student Performance Predictor
 
 #### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Language and Libraries*** 
 
