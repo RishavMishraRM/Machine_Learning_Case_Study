@@ -1,6 +1,6 @@
 # Machine_Learning_Case_Study
 
-This case study is about Student Performance Predictor
+This case study is on Student Performance Predictor
 
 #### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Language and Libraries*** 
 
@@ -19,7 +19,7 @@ This case study is about Student Performance Predictor
 
 
 ## Data
-The dataset is collected from the following link: <a href="https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datasetId=74977">Kaggle Link</a> or direct link
+The dataset is collected from <a href="https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datasetId=74977">Kaggle Link</a> or direct link
 (https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datasetId=74977)
 
 * This project understands how the student's performance (test scores) is affected by other variables such as Gender, Ethnicity, Parental level of education, Lunch and Test preparation course.
