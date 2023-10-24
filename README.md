@@ -53,5 +53,6 @@ Since it is an classification problem we will use r2 score , rmse and mse
 ## Files
 1. data Folder
 2. EDA STUDENT PERFORMANCE.ipynb
+3. Stats based analysis.ipynb
 
 
