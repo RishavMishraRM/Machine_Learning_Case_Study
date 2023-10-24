@@ -54,5 +54,5 @@ Since it is an classification problem we will use r2 score , rmse and mse
 1. Data folder
 2. EDA student performance.ipynb
 3. Stats based analysis.ipynb
-
+4. Model training.ipynb
 
