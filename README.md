@@ -51,7 +51,7 @@ It is an regression problem where given a set of features we need to predict whe
 Since it is an classification problem we will use r2 score , rmse and mse
 
 ## Files
-1. Data folder
+1. <a href="url">Data folder</a>
 2. EDA student performance.ipynb
 3. Stats based analysis.ipynb
 4. Model training.ipynb
