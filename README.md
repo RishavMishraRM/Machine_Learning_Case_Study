@@ -52,7 +52,7 @@ Since it is an classification problem we will use r2 score , rmse and mse
 
 ## Files
 1. <a href="url">Data folder</a>
-2. EDA student performance.ipynb
+2. <a href="url">EDA student performance.ipynb</a>
 3. Stats based analysis.ipynb
 4. Model training.ipynb
 
