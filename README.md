@@ -33,10 +33,10 @@ The dataset used to predict stroke is a dataset from Kaggle. This dataset has be
 
 ## Features in Datasets:
 1. Gender: Student's gender ('Male', 'Female') [str]
-2. race/ethnicity : Ethnicity of students -> (Group A, B,C, D,E) [str]
-3. parental level of education :  parents' final education ->(bachelor's degree,some college,master's degree,associate's degree,high school)[str]
-4. lunch :having lunch before test (standard or free/reduced). [str]
-5. test preparation course : complete or not complete before test [str]
+2. race/ethnicity: Ethnicity of students -> (Group A, B,C, D,E) [str]
+3. parental level of education:  parents' final education ->(bachelor's degree, some college, master's degree, associate's degree, high school)[str]
+4. lunch: having lunch before the test (standard or free/reduced). [str]
+5. test preparation course: complete or not complete before test [str]
 6. math score [int]
 7. reading score[int]
 8. writing score[int]
