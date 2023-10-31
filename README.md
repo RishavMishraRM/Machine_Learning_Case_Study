@@ -42,13 +42,13 @@ The dataset used to predict stroke is a dataset from Kaggle. This dataset has be
 8. writing score[int]
 
 Target:
-average : Prediction target column [int]
+average: Prediction target column [int]
 
 ## Type of Machine Learning task : 
-It is an regression problem where given a set of features we need to predict whether that person is prone to heart diseases or not.
+It is a regression problem where given a set of features we need to predict whether that person is prone to heart diseases or not.
 
 ## Performace Metric
-Since it is an classification problem we will use r2 score , rmse and mse
+Since it is a classification problem we will use r2 score, rmse, and mse
 
 ## Files
 1. <a href="url">Data folder</a>
