@@ -2,3 +2,4 @@
 
 1. stud.csv -- original dataset
 2. cleaned.csv
+3. outlier_removed.csv
