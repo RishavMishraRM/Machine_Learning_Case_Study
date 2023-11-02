@@ -54,6 +54,6 @@ Since it is a classification problem we will use r2 score, rmse, and mse
 1. <a href="url">Data folder</a>
 2. <a href="url">EDA student performance.ipynb</a>
 3. <a href="url">Stats based analysis.ipynb</a>
-4. <a href="https://github.com/RishavMishraRM/Machine_Learning_Case_Study/blob/main/3.%20OUTLIER%20DETECTION%20AND%20REMOVAL.ipynb"> Outlier detection & Removal</a>
+4. <a href="https://github.com/RishavMishraRM/Machine_Learning_Case_Study/blob/main/3.%20OUTLIER%20DETECTION%20AND%20REMOVAL.ipynb"> Outlier detection & Removal.ipynb</a>
 4. <a href="url">Model training.ipynb</a>
 
